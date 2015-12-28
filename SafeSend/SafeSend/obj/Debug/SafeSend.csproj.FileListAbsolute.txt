@@ -1,0 +1,12 @@
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\bin\SafeSend.dll.config
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\bin\SafeSend.dll
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\bin\SafeSend.pdb
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\bin\EntityFramework.dll
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\bin\EntityFramework.SqlServer.dll
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\bin\EntityFramework.xml
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\bin\EntityFramework.SqlServer.xml
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\obj\Debug\SafeSend.csprojResolveAssemblyReference.cache
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\obj\Debug\SafeSend.dll
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\obj\Debug\SafeSend.pdb
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\bin\Newtonsoft.Json.dll
+T:\Emre\Yüksek Lisans\SWE599\Code\WCF Service\SafeSend\SafeSend\bin\Newtonsoft.Json.xml
